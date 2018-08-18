@@ -1,4 +1,4 @@
 # myripo89L
 はじめまして
-# Licene
+# License
 MIT
