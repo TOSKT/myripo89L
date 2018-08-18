@@ -1,5 +1,5 @@
 # myripo89L
 はじめまして
 # License
-MIT
+MIT \n
 see MIT.txt
