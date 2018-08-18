@@ -1,2 +1,4 @@
 # myripo89L
-ビギナー
+はじめまして
+# Licence
+MIT
