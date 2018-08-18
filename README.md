@@ -2,3 +2,4 @@
 はじめまして
 # License
 MIT
+see MIT.txt
