@@ -1,4 +1,4 @@
 # myripo89L
-はじめまして
+pythonにてじゃんけんゲームを作成しました。
 # License
 MIT
